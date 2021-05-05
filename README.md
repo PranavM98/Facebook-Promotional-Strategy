@@ -1,5 +1,7 @@
 # Split Ad Testing
 
+Team Members: Pranav Manjunath, Aiman Haider, Luyi Huang, Maobin Guo, Xinyi Pan
+
 Through the project, we would attempt to understand what promotional advertisement strategy between the two - photos and videos - work better for promoting a Musical Band’s (our own team member’s!) Facebook Page. We intend to run a split testing on the advertisements and gauge the effectiveness of the two strategies to understand which is better. This project would be helpful in learning about effectively advertising on Facebook - for Musical Bands in particular, and most professional organisations in general, including Businesses.
 As a start up musical band, we are trying to understand the best way to promote our Band’s Facebook page, through ads. Right now, the band uses images as ads and is considering to replace it with ads that have video. Thus, we want to understand the impact of ads that have videos vs ads that consists of still images.
 
